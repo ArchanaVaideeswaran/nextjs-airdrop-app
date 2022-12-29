@@ -4,6 +4,7 @@ body {
     display: inline;
     align-self: center;
     align-items: center;
+    cursor: default;
 }
 
 button {
